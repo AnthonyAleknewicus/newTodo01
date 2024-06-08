@@ -1,0 +1,5 @@
+#taskText {
+    cursor: pointer;
+    list-style-type: none;
+    overflow: hidden;
+}
